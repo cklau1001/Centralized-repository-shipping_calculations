@@ -1,5 +1,4 @@
  # Here is a new update by cklau1001
- # Here is another update by cklau1001
 
 # Shipping Cost Calculator
 
